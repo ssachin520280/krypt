@@ -1,6 +1,6 @@
 # Krypt - Web 3.0 Blockchain Application
 
-<a href="">🌐 Live Demo</a>
+<a href="https://krypt-pearl.vercel.app">🌐 Live Demo</a>
 
 ## 📋 <a name="table">Table of Contents</a>
 
