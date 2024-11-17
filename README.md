@@ -45,5 +45,5 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/yourusername/krypt.git
+git clone https://github.com/ssachin919/krypt.git
 cd krypt
