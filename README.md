@@ -19,6 +19,9 @@
 - Tailwind CSS
 - React.js
 - Hardhat
+- Solidity
+- Ethers
+- Openzeppelin
 
 ## <a name="features">🔋 Features</a>
 
@@ -47,3 +50,4 @@ Make sure you have the following installed on your machine:
 ```bash
 git clone https://github.com/ssachin919/krypt.git
 cd krypt
+```
